@@ -21,9 +21,9 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmYWRzeXU0aTZmejZnem0yN
 
 <h2 align="center">
   I'm a Backend Developer 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70" alt="world gif" />
+  <img src="https://media.giphy.com/media/p1NqIBmDgA2P8Kwz8E/giphy.gif?cid=ecf05e4749capj6yr2o8okndw4nfo34riuc0w8nshwpr5hu1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80" alt="world gif" />
   and Tech Enthusiast 
-  <img src="https://media.giphy.com/media/xBd7DaPUjP4BiVnwWO/giphy.gif?cid=ecf05e47wm5c1eqod2k6zwflorvt2l28m0zkwl8flwedbaw8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" alt="enthusiasm gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgwaWthbWdzc2FwaXk1enEzNmppdmM5dmI1bjZ5aDlmM3V3dGRuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="80" alt="enthusiasm gif" />
   from East Java
 </h2>
 
