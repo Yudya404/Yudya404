@@ -106,3 +106,13 @@
 </div>
 
 ###
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudya404" alt="yudya404" /></a> </p>
+
+###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yudya404&show_icons=true&locale=en&layout=compact" alt="yudya404" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudya404&show_icons=true&locale=en" alt="yudya404" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yudya404&" alt="yudya404" /></p>
