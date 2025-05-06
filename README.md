@@ -1,22 +1,26 @@
+<h2 align="center">Hello <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I0ZmRjbHZkMGxibnhzbXdrN2hkcWJvbTQ4ZHZsYzV2cHB2bXpwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="80"/>! My name is Yudya Sukma</h2>
+
+###
+
 <div align="center">
   <img width="1000" height="200" 
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmYWRzeXU0aTZmejZnem0yNnh1eWtibWZteWd0dGp6YjIzc2cwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yudya404.Yudya404&"  />
-</div>
+<img src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h2 align="center">Hello <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I0ZmRjbHZkMGxibnhzbXdrN2hkcWJvbTQ4ZHZsYzV2cHB2bXpwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="80"/>! My name is Yudya Sukma</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <h2 align="center">
-  I'm a Web Developer 
+  I'm a Backend Developer 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70" alt="world gif" />
   and Tech Enthusiast 
   <img src="https://media.giphy.com/media/xBd7DaPUjP4BiVnwWO/giphy.gif?cid=ecf05e47wm5c1eqod2k6zwflorvt2l28m0zkwl8flwedbaw8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" alt="enthusiasm gif" />
@@ -146,21 +150,3 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmYWRzeXU0aTZmejZnem0yN
 </p>
 
 ###
-
-<hr>
-<h3 align="left">🏆 Let's Play Games</h3>
-<hr>
-
-<img src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
