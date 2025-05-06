@@ -1,80 +1,154 @@
-<h2 align="left">Hi 👋! My name is Yudya Sukma and I'm a Web Development | Tech Enthusiast from East Java</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/composer/885630" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aiscript" height="30" alt="aiscript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
+<div align="center">
+  <img width="1000" height="200" 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3YzY24yeHhiMmg0aHlsZWRvanl2MmtvbGhydDl5dWhnNWdnN3V0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/klyzYjJJfPb0FmAW2d/giphy.gif"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yudya404.Yudya404&"  />
+</div>
+
+###
+
+<h2 align="center">Hello <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I0ZmRjbHZkMGxibnhzbXdrN2hkcWJvbTQ4ZHZsYzV2cHB2bXpwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="80"/>! My name is Yudya Sukma</h2>
+
+###
+
+<h2 align="center">
+  I'm a Web Developer 
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70" alt="world gif" />
+  and Tech Enthusiast 
+  <img src="https://media.giphy.com/media/xBd7DaPUjP4BiVnwWO/giphy.gif?cid=ecf05e47wm5c1eqod2k6zwflorvt2l28m0zkwl8flwedbaw8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" alt="enthusiasm gif" />
+  from East Java
+</h2>
+
+###
+
+<h3 align="left">🛠️ Tools And Tech Stack</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/yudya-hastriawan-sukma-70415b299" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo" />
   </a>
-  <a href="yudyasukma99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo" />
   </a>
-  <a href="yudyasukma2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="35" alt="canva logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="35" alt="codeigniter logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="35" alt="composer logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="35" alt="flask logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="35" alt="jquery logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="35" alt="laravel logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="35" alt="netlify logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="35" alt="npm logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" alt="pandas logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="35" alt="php logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35" alt="postman logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/AIScript-000000?logoColor=white&style=for-the-badge" height="35" alt="aiscript logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Regex-FF4088?logoColor=white&style=for-the-badge" height="35" alt="regex logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" height="35" alt="sass logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="35" alt="tensorflow logo" />
   </a>
 </div>
+
+###
+
+<hr>
+<h3 align="left">🌐 Social</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/yudya-hastriawan-sukma-70415b299" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://instagram.com/yudyasukma99" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+</div>
+
+###
+
+<hr>
+<h3 align="left">📊 Github Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yudya404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yudya404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
+
+<hr>
+<h3 align="left">🏆 Github Trophy</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yudya404&theme=dracula" alt="yudya404" />
+  </a>
+</p>
+
+###
+
+<hr>
+<h3 align="left">🏆 Let's Play Games</h3>
+<hr>
+
+<img src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -86,32 +160,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yudya404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yudya404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">🏆 Github Trophy</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yudya404&theme=dracula" alt="yudya404" />
-  </a>
-</p>
-
-###
