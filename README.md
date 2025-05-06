@@ -108,6 +108,9 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmYWRzeXU0aTZmejZnem0yN
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="35" alt="tensorflow logo" />
   </a>
+  <a href="https://scikit-learn.org" target="_blank">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="35" alt="scikit-learn logo" />
+</a>
 </div>
 
 ###
