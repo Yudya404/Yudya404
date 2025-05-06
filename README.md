@@ -107,6 +107,11 @@
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yudya404" alt="yudya404" /></a> </p>
+<h3 align="left">🏆 Github Trophy</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yudya404&theme=dracula" alt="yudya404" />
+  </a>
+</p>
 
 ###
