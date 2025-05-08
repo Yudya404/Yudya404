@@ -121,7 +121,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmYWRzeXU0aTZmejZnem0yN
 
 <hr>
 <h3 align="left">🌐 Social</h3>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/yudya-hastriawan-sukma-70415b299" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
