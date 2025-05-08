@@ -4,7 +4,7 @@
 
 <div align="center">
   <img width="1000" height="200" 
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmYWRzeXU0aTZmejZnem0yNnh1eWtibWZteWd0dGp6YjIzc2cwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa21uODN2Y2tqem91bnE4NTV3amxkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdZ4zEvgfJ0JcrMByK/giphy.gif"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/snake.svg" alt="Snake animation" />
