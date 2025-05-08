@@ -29,8 +29,8 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNmYWRzeXU0aTZmejZnem0yN
 
 ###
 
-<h3 align="center">🛠️ Tools And Tech Stack</h3>
-<div align="left">
+<h3 align="left">🛠️ Tools And Tech Stack</h3>
+<div align="center">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo" />
   </a>
