@@ -41,40 +41,16 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="35" alt="canva logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="35" alt="codeigniter logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="35" alt="composer logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="35" alt="flask logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="35" alt="jquery logo" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="35" alt="laravel logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo" />
+    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="35" alt="codeigniter logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="35" alt="netlify logo" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo" />
@@ -83,38 +59,44 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
     <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="35" alt="npm logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" alt="pandas logo" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="35" alt="php logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="35" alt="php logo" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="35" alt="jquery logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35" alt="postman logo" />
+    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="35" alt="flask logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/AIScript-000000?logoColor=white&style=for-the-badge" height="35" alt="aiscript logo" />
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" alt="pandas logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Regex-FF4088?logoColor=white&style=for-the-badge" height="35" alt="regex logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" height="35" alt="sass logo" />
+	<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="35" alt="scikit-learn logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="35" alt="tensorflow logo" />
   </a>
-  <a href="https://scikit-learn.org" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="35" alt="scikit-learn logo" />
-</a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="35" alt="canva logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35" alt="postman logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
+  </a>
 </div>
 
 ###
