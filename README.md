@@ -1,9 +1,9 @@
-<h2 align="center">Hello <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I0ZmRjbHZkMGxibnhzbXdrN2hkcWJvbTQ4ZHZsYzV2cHB2bXpwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="80"/>! My name is Yudya Sukma</h2>
+<h2 align="center">Hello <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I0ZmRjbHZkMGxibnhzbXdrN2hkcWJvbTQ4ZHZsYzV2cHB2bXpwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="80"/>! My name is Yudya</h2>
 
 ###
 
 <h2 align="center">
-  I'm a Frontend Developer 
+  I'm a Frontend Development 
   <img src="https://media.giphy.com/media/p1NqIBmDgA2P8Kwz8E/giphy.gif?cid=ecf05e4749capj6yr2o8okndw4nfo34riuc0w8nshwpr5hu1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80" alt="world gif" />
   and Tech Enthusiast 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgwaWthbWdzc2FwaXk1enEzNmppdmM5dmI1bjZ5aDlmM3V3dGRuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="80" alt="enthusiasm gif" />
