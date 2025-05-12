@@ -34,10 +34,10 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="35" alt="laravel logo" />
+    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="35" alt="codeigniter logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="35" alt="codeigniter logo" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="35" alt="laravel logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo" />
