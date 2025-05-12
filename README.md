@@ -19,7 +19,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo" />
@@ -29,6 +29,9 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="35" alt="laravel logo" />
@@ -73,16 +76,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="35" alt="tensorflow logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="35" alt="canva logo" />
-  </a>
-  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35" alt="postman logo" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
   </a>
 </div>
 
