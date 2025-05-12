@@ -16,19 +16,7 @@
   <img width="1000" height="200" 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa21uODN2Y2tqem91bnE4NTV3amxkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdZ4zEvgfJ0JcrMByK/giphy.gif"  />
 </div>
-<img src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/snake.svg" alt="Snake animation" />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="left">🛠️ Tools And Tech Stack</h3>
 <div align="center">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo" />
@@ -97,6 +85,18 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo" />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
