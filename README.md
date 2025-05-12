@@ -2,6 +2,16 @@
 
 ###
 
+<h2 align="center">
+  I'm a Frontend Developer 
+  <img src="https://media.giphy.com/media/p1NqIBmDgA2P8Kwz8E/giphy.gif?cid=ecf05e4749capj6yr2o8okndw4nfo34riuc0w8nshwpr5hu1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80" alt="world gif" />
+  and Tech Enthusiast 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgwaWthbWdzc2FwaXk1enEzNmppdmM5dmI1bjZ5aDlmM3V3dGRuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="80" alt="enthusiasm gif" />
+  from East Java
+</h2>
+
+###
+
 <div align="center">
   <img width="1000" height="200" 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa21uODN2Y2tqem91bnE4NTV3amxkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdZ4zEvgfJ0JcrMByK/giphy.gif"  />
@@ -15,16 +25,6 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<h2 align="center">
-  I'm a Frontend Developer 
-  <img src="https://media.giphy.com/media/p1NqIBmDgA2P8Kwz8E/giphy.gif?cid=ecf05e4749capj6yr2o8okndw4nfo34riuc0w8nshwpr5hu1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80" alt="world gif" />
-  and Tech Enthusiast 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgwaWthbWdzc2FwaXk1enEzNmppdmM5dmI1bjZ5aDlmM3V3dGRuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="80" alt="enthusiasm gif" />
-  from East Java
-</h2>
 
 ###
 
