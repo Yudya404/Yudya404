@@ -82,6 +82,8 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
 
 ###
 
+<hr>
+<h3 align="left">🎮 Play Games</h3>
 <img src="https://raw.githubusercontent.com/Yudya404/Yudya404/output/snake.svg" alt="Snake animation" />
 
 ###
