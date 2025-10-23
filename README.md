@@ -3,7 +3,7 @@
 ###
 
 <h2 align="center">
-  I'm a Frontend Development 
+  I'm a Web Development 
   <img src="https://media.giphy.com/media/p1NqIBmDgA2P8Kwz8E/giphy.gif?cid=ecf05e4749capj6yr2o8okndw4nfo34riuc0w8nshwpr5hu1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80" alt="world gif" />
   and Tech Enthusiast 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgwaWthbWdzc2FwaXk1enEzNmppdmM5dmI1bjZ5aDlmM3V3dGRuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="80" alt="enthusiasm gif" />
@@ -46,9 +46,6 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="35" alt="npm logo" />
-  </a>
-  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="35" alt="php logo" />
   </a>
   <a href="#" target="_blank">
@@ -73,7 +70,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdvdTBsaXE5Nmk5MHVidzIxa
 	<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="35" alt="scikit-learn logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="35" alt="tensorflow logo" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="35" alt="pytorch logo" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35" alt="postman logo" />
